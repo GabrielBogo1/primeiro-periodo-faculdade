@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649168902 source:c:\users\bogo\desktop\exercício lista revisão\matriz exercício b\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
