@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647432900 source:c:\users\bogo\desktop\exercícios codeblock\exercício 7 - menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
